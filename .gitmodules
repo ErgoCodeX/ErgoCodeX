@@ -1,0 +1,9 @@
+[submodule "Lily58"]
+	path = Lily58
+	url = https://github.com/MaxMacClane/Lily58.git
+[submodule "jorne"]
+	path = jorne
+	url = https://github.com/MaxMacClane/jorne.git
+[submodule "Allium58"]
+	path = Allium58
+	url = https://github.com/beekeeb/Allium58.git
